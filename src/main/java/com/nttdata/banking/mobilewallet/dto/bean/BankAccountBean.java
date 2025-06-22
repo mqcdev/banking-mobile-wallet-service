@@ -6,7 +6,6 @@ import com.nttdata.banking.mobilewallet.model.BankAccount;
 import com.nttdata.banking.mobilewallet.model.Client;
 import com.nttdata.banking.mobilewallet.model.Headline;
 import com.nttdata.banking.mobilewallet.model.Movement;
-import com.nttdata.bootcamp.msmobilewallet.model.*;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 import reactor.core.publisher.Mono;
